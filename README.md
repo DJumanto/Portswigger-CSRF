@@ -1,1 +1,1 @@
-# Portswigger CSRF Labs WriteUp
+# Portswigger CSRF Labs
